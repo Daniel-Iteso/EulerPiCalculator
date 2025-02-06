@@ -1,5 +1,5 @@
 
-public class Pi implements Calculo{
+public class Pi implements Calculation{
 	
 	private int iteration;
 	private double result;
@@ -26,7 +26,7 @@ public class Pi implements Calculo{
 			
 			odd += 2;
 		}
-		return result;
+		return 4*result;
 	}
 	
 	

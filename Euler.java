@@ -1,5 +1,5 @@
 
-public class Euler implements Calculo{
+public class Euler implements Calculation{
 
 	
 	private int iteration;
